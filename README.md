@@ -4,8 +4,7 @@ Welcome to **Parrot**, your lightweight and efficient Shell-based tool specifica
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/k4ztral/parrot?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/k4ztral/parrot?style=social)
+![GitHub stars](https://img.shields.io/github/stars/k4ztral/parrot?style=social)  ![GitHub forks](https://img.shields.io/github/forks/k4ztral/parrot?style=social)
 
 ---
 
