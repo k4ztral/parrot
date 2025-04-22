@@ -14,7 +14,7 @@ Welcome to **Parrot**, your lightweight and efficient Shell-based tool specifica
 - **📱 Termux-Optimized**: Seamlessly integrates with Termux for a smooth mobile development workflow.
 - **⚡ Lightweight & Fast**: Minimal dependencies ensure quick setup and efficient operation.
 
-![Parrot Screenshot](https://via.placeholder.com/800x400?text=Your+Screenshot+Here) <!-- Replace with an actual screenshot -->
+![Parrot Screenshot](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/907aad44-726f-4abc-89c9-7e216be2b234.png?auto=format&q=50)
 
 ---
 
