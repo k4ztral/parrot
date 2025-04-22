@@ -44,7 +44,7 @@ Welcome to **Parrot**, your lightweight and efficient Shell-based tool specifica
 
 5. **Run Installation Script**  
    ```bash
-   ./install.sh
+   ./parrot.sh
    ```
 
 ---
