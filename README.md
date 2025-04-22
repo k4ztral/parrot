@@ -75,8 +75,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📸 Screenshots & Media
 
-![Parrot Usage Example](https://via.placeholder.com/800x400?text=Add+Your+Cool+Screenshots+Here) <!-- Replace with actual screenshot -->
-
+![Parrot Usage Example](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/907aad44-726f-4abc-89c9-7e216be2b234.png?auto=format&q=50) 
 ---
 
 ## 🌟 Acknowledgments
